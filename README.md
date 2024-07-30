@@ -45,7 +45,7 @@ LOG_DIR=path/to/log_directory
 
 DELETE_DIR=path/to/delete_directory
 
-DAYS_TO_DELETE=number_of_days
+DAYS_TO_DELETE=number_of_days_or_deleting_files
 
 DAYS_TO_DELETE=number_of_days_for_moving_files
 
