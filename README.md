@@ -38,12 +38,19 @@ git clone https://github.com/yourusername/OldFilesHandler.git
 Configure Environment Variables: Create a .env file in the root directory and set the necessary variables:
 
 SRC_DIR=path/to/source_directory
+
 DEST_DIR=path/to/destination_directory
+
 LOG_DIR=path/to/log_directory
+
 DELETE_DIR=path/to/delete_directory
+
 DAYS_TO_DELETE=number_of_days
+
 DAYS_TO_DELETE=number_of_days_for_moving_files
+
 MAX_LOG_DAYS=number_of_days_for_logs
+
 
 Usage
 1. 
